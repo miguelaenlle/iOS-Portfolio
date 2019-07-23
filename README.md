@@ -12,7 +12,7 @@
 
 [Skrilla](https://github.com/ab492/Skrilla)  is a 'dummy' banking app exploring some of the elements of popular banking apps: biometric and keychain authentication; viewing transactions; assigning a category and receipt to a transaction; splitting a bill with friends and sharing the transaction with them.
 
-I had great fun designing and building this app. A particular challenge was writing the 'Split Transaction' methods as I came across many issues I hadn't thought about previously: how do you split an odd amount of money between friends fairly?; how do you re-calculate the split when the user has decided a custom about for one of the friends? This forced me to return to the drawing board for large parts of my model code, in turn teaching me about the importance of keeping a clear separation of concerns between objects.
+I had great fun designing and building this app. A particular challenge was writing the 'Split Transaction' methods as I came across many issues I hadn't thought about previously: how do you split an odd amount of money between friends fairly?; how do you re-calculate the split when the user has assigned a custom amount for some of the friends? This forced me to return to the drawing board for large parts of my model code, in turn teaching me about the importance of keeping a clear separation of concerns between objects.
 
 ![](https://github.com/ab492/iOS-Portfolio/blob/master/PortfolioScreengrabs/Skrilla_Portfolio.png)
 
