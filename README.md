@@ -4,9 +4,8 @@
 
 <p align="center">
     <a href="mailto:andybrown41@icloud.com">Email Me</a> ·
-    <a href="#">Download CV</a>
+    <a href="https://github.com/ab492/iOS-Portfolio/blob/master/Andy%20Brown%20-%20iOS%20Developer%20-%20July%202019.pdf">Download CV</a>
 </p>
-
 
 # Skrilla
 
