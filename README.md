@@ -14,7 +14,8 @@
 
 I had great fun designing and building this app. A particular challenge was writing the 'Split Transaction' methods as I came across many issues I hadn't thought about previously: how do you split an odd amount of money between friends fairly?; how do you re-calculate the split when the user has decided a custom about for one of the friends? This forced me to return to the drawing board for large parts of my model code, in turn teaching me about the importance of keeping a clear separation of concerns between objects.
 
-![](https://github.com/ab492/Skrilla/blob/master/PortfolioScreengrabs/Skrilla_Portfolio.png)
+![](https://github.com/ab492/iOS-Portfolio/blob/master/PortfolioScreengrabs/Skrilla_Portfolio.png)
+
 
 ### Technologies Used
 * Written fully in Swift.
@@ -36,7 +37,7 @@ I had great fun designing and building this app. A particular challenge was writ
 
 I'm really happy with the models I wrote for this app: everything has a clear task, separate from other objects, and I've worked hard to pass updates around my app using delegates, protocols and notifications.
 
-![](https://github.com/ab492/FlipFlopWeather/blob/master/PortfolioScreengrabs/FlipFlopWeather_Portfolio.png)
+![](https://github.com/ab492/iOS-Portfolio/blob/master/PortfolioScreengrabs/FlipFlopWeather_Portfolio.png)
 
 ### Technologies Used
 * MVC and MVVM design patterns.
