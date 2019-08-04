@@ -55,3 +55,7 @@ I'm really happy with the models I wrote for this app: everything has a clear ta
 * Extending classes to add custom functionality for my needs.
 * Using a linter to ensure consistent formatting through the project.
 * Using R.swift to get strong typed resources.
+
+# What I'm Working On - StarlingAPI
+[StarlingAPI](https://github.com/ab492/StarlingAPI) is a work-in-progress clone banking app that uses Starling bank's [API](https://developer.starlingbank.com) and displays your transactions and account information. I'm building it to develop my skills dealing with a RESTful API and Unit Testing. I'm also adding accessibility support to learn how others might interact with their devices.
+
